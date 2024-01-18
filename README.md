@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="img/minitalke.png"/>
+    <img src="img/minitalkm.png"/>
 </p>
 
 <h1 align="center">
