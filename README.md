@@ -1,4 +1,15 @@
-# Minitalk
+<p align="center">
+    <img src="img/minitalke.png"/>
+</p>
+
+<h1 align="center">
+   minitalk
+</h1>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/language-%20C-blue" />
+    <img src="https://img.shields.io/badge/110%2F100-green" />
+</p>
 
 ## Client Program
 
